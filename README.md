@@ -18,7 +18,7 @@ A simple and modern calculator built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## 📸 Preview
-
+<img src="calc.png" alt="png">
 Modern calculator with a clean and attractive user interface.
 
-## 📂 Files
+
